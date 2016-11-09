@@ -1,1 +1,2 @@
-ashdjashjsa
+<?php
+echo 'hello word';
